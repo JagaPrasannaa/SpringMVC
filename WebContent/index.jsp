@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="refresh" content="0;URL=<%=request.getContextPath()%>/start"/>
-<title>Welcome Page</title>
+<title>Home Page</title>
 </head>
 <body>
 
